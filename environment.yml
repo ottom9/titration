@@ -6,5 +6,4 @@ dependencies:
   - pandas
   - scipy
   - matplotlib
-  - pip:
-    - fnmatch
+  - pip
